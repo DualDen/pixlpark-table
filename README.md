@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+At first you must run cors.js with command:
+
+node cors.js
+
 In the project directory, you can run:
 
 ### `npm start`
